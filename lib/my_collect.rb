@@ -10,7 +10,6 @@ def my_collect (collection)
   end
   
   array
-  
 end
 
 
